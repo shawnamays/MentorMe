@@ -1,3 +1,6 @@
+
+MentorMe community project high fidelity mock up
+
 ## Installation
 
 1. Clone repo
